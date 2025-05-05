@@ -1,0 +1,1001 @@
+Ticket_ID,Train_No,Journey_Date,TT_Name,Reason,Penalty_Amount
+11000,12345,2023-05-03,Anita Sharma,No ticket,131
+11001,12952,2023-09-06,Manoj Verma,Travelling without ID,362
+11002,12951,2023-07-02,Alok Singh,Unreserved seat,376
+11003,12860,2023-03-31,Sunita Yadav,Unreserved seat,489
+11004,12953,2023-10-19,Anita Sharma,Travelling without ID,562
+11005,12951,2023-11-18,Alok Singh,Seat change fraud,767
+11006,12953,2023-09-01,Manoj Verma,Unreserved seat,112
+11007,12953,2023-12-31,Ravi Kumar,Seat change fraud,191
+11008,12860,2023-08-09,Alok Singh,Travelling without ID,978
+11009,12953,2023-02-26,Ravi Kumar,Over luggage,219
+11010,12951,2023-05-21,Ravi Kumar,Unreserved seat,362
+11011,12953,2023-04-26,Alok Singh,Over luggage,798
+11012,12952,2023-05-21,Manoj Verma,Unreserved seat,208
+11013,12953,2023-06-04,Alok Singh,Travelling without ID,365
+11014,12860,2023-09-12,Sunita Yadav,Seat change fraud,147
+11015,12860,2023-06-23,Anita Sharma,Unreserved seat,562
+11016,12953,2023-08-26,Sunita Yadav,Over luggage,278
+11017,12860,2023-07-08,Ravi Kumar,Travelling without ID,588
+11018,12952,2023-05-05,Ravi Kumar,No ticket,405
+11019,12860,2023-12-31,Alok Singh,Unreserved seat,620
+11020,12951,2023-06-22,Manoj Verma,Over luggage,825
+11021,12952,2023-04-26,Rajesh Kumar,Travelling without ID,506
+11022,12953,2023-06-19,Alok Singh,Unreserved seat,761
+11023,12953,2023-12-08,Sunita Yadav,Travelling without ID,357
+11024,12951,2023-11-23,Sunita Yadav,Seat change fraud,919
+11025,12860,2023-04-01,Ravi Kumar,Travelling without ID,799
+11026,12953,2023-05-21,Alok Singh,Seat change fraud,534
+11027,12952,2023-03-15,Manoj Verma,Travelling without ID,669
+11028,12860,2023-06-01,Sunita Yadav,Over luggage,371
+11029,12951,2023-01-09,Rajesh Kumar,Seat change fraud,799
+11030,12860,2023-01-09,Ravi Kumar,Seat change fraud,275
+11031,12951,2023-01-13,Manoj Verma,Over luggage,982
+11032,12951,2023-07-02,Alok Singh,Travelling without ID,567
+11033,12860,2023-04-04,Alok Singh,No ticket,838
+11034,12953,2023-10-24,Sunita Yadav,Unreserved seat,984
+11035,12953,2023-01-07,Anita Sharma,No ticket,645
+11036,12953,2023-06-23,Ravi Kumar,No ticket,625
+11037,12953,2023-01-10,Ravi Kumar,Travelling without ID,466
+11038,12860,2023-03-13,Ravi Kumar,Over luggage,186
+11039,12345,2023-12-01,Manoj Verma,Unreserved seat,980
+11040,12951,2023-10-21,Ravi Kumar,No ticket,578
+11041,12953,2023-05-06,Rajesh Kumar,Travelling without ID,434
+11042,12345,2023-11-16,Anita Sharma,Unreserved seat,585
+11043,12952,2023-01-27,Manoj Verma,No ticket,401
+11044,12953,2023-10-30,Manoj Verma,Seat change fraud,904
+11045,12953,2023-07-24,Rajesh Kumar,Unreserved seat,234
+11046,12860,2023-05-10,Sunita Yadav,No ticket,735
+11047,12951,2023-09-08,Alok Singh,Travelling without ID,367
+11048,12951,2023-05-23,Anita Sharma,Over luggage,870
+11049,12952,2023-06-04,Sunita Yadav,Seat change fraud,253
+11050,12951,2023-05-06,Alok Singh,Travelling without ID,356
+11051,12952,2023-12-10,Anita Sharma,Over luggage,737
+11052,12953,2023-06-17,Rajesh Kumar,Seat change fraud,163
+11053,12860,2023-02-17,Sunita Yadav,Over luggage,224
+11054,12860,2023-08-21,Alok Singh,Seat change fraud,366
+11055,12345,2023-06-23,Manoj Verma,No ticket,832
+11056,12345,2023-06-29,Rajesh Kumar,Over luggage,810
+11057,12345,2023-12-03,Sunita Yadav,Travelling without ID,416
+11058,12345,2023-10-03,Ravi Kumar,Travelling without ID,520
+11059,12952,2023-10-12,Alok Singh,Over luggage,502
+11060,12952,2023-06-27,Manoj Verma,No ticket,665
+11061,12953,2023-08-19,Anita Sharma,Unreserved seat,967
+11062,12952,2023-02-16,Manoj Verma,Travelling without ID,363
+11063,12860,2023-05-09,Ravi Kumar,No ticket,425
+11064,12860,2023-12-04,Anita Sharma,Seat change fraud,901
+11065,12952,2023-06-19,Anita Sharma,No ticket,282
+11066,12952,2023-07-20,Ravi Kumar,Unreserved seat,175
+11067,12860,2023-09-01,Sunita Yadav,Travelling without ID,147
+11068,12860,2023-04-13,Sunita Yadav,Unreserved seat,425
+11069,12345,2023-03-24,Sunita Yadav,Seat change fraud,221
+11070,12953,2023-06-01,Alok Singh,No ticket,266
+11071,12860,2023-05-12,Manoj Verma,Over luggage,467
+11072,12952,2023-02-04,Sunita Yadav,No ticket,749
+11073,12860,2023-02-14,Anita Sharma,Seat change fraud,457
+11074,12860,2023-03-05,Rajesh Kumar,Seat change fraud,393
+11075,12860,2023-04-04,Rajesh Kumar,No ticket,498
+11076,12952,2023-02-10,Sunita Yadav,Unreserved seat,766
+11077,12860,2023-05-07,Rajesh Kumar,Over luggage,704
+11078,12951,2023-08-23,Rajesh Kumar,Over luggage,673
+11079,12860,2023-05-29,Ravi Kumar,No ticket,725
+11080,12952,2023-06-19,Manoj Verma,Travelling without ID,485
+11081,12953,2023-09-29,Manoj Verma,Travelling without ID,561
+11082,12860,2023-02-01,Anita Sharma,No ticket,364
+11083,12951,2023-01-31,Anita Sharma,Unreserved seat,125
+11084,12952,2023-04-22,Sunita Yadav,No ticket,503
+11085,12951,2023-03-16,Manoj Verma,Travelling without ID,631
+11086,12860,2023-12-10,Alok Singh,Seat change fraud,484
+11087,12345,2023-01-15,Alok Singh,No ticket,292
+11088,12953,2023-08-19,Rajesh Kumar,Over luggage,584
+11089,12953,2023-11-03,Sunita Yadav,Seat change fraud,793
+11090,12345,2023-12-21,Ravi Kumar,Seat change fraud,224
+11091,12953,2023-07-15,Anita Sharma,Unreserved seat,261
+11092,12951,2023-03-30,Ravi Kumar,Unreserved seat,134
+11093,12345,2023-11-26,Rajesh Kumar,Travelling without ID,101
+11094,12952,2023-04-17,Anita Sharma,Travelling without ID,146
+11095,12860,2023-01-27,Ravi Kumar,No ticket,237
+11096,12953,2023-06-01,Alok Singh,Seat change fraud,898
+11097,12953,2023-10-18,Rajesh Kumar,No ticket,889
+11098,12952,2023-10-04,Alok Singh,No ticket,915
+11099,12953,2023-09-05,Ravi Kumar,Over luggage,652
+11100,12953,2023-11-19,Sunita Yadav,Travelling without ID,104
+11101,12953,2023-01-31,Alok Singh,Seat change fraud,165
+11102,12860,2023-04-23,Alok Singh,Unreserved seat,438
+11103,12952,2023-04-30,Sunita Yadav,Travelling without ID,136
+11104,12860,2023-11-13,Ravi Kumar,Travelling without ID,612
+11105,12952,2023-12-22,Sunita Yadav,Seat change fraud,799
+11106,12860,2023-05-17,Manoj Verma,Travelling without ID,899
+11107,12951,2023-12-13,Sunita Yadav,Travelling without ID,214
+11108,12953,2023-12-28,Rajesh Kumar,Seat change fraud,685
+11109,12952,2023-02-12,Sunita Yadav,Travelling without ID,282
+11110,12345,2023-04-08,Anita Sharma,Seat change fraud,581
+11111,12952,2023-10-26,Alok Singh,Seat change fraud,360
+11112,12953,2023-09-25,Rajesh Kumar,No ticket,306
+11113,12345,2023-04-13,Anita Sharma,Unreserved seat,956
+11114,12860,2023-03-16,Rajesh Kumar,No ticket,784
+11115,12952,2023-09-18,Sunita Yadav,No ticket,662
+11116,12345,2023-03-17,Sunita Yadav,Unreserved seat,396
+11117,12860,2023-08-04,Manoj Verma,Travelling without ID,131
+11118,12345,2023-12-09,Rajesh Kumar,No ticket,469
+11119,12860,2023-08-25,Rajesh Kumar,No ticket,206
+11120,12951,2023-06-11,Manoj Verma,Over luggage,810
+11121,12953,2023-09-21,Sunita Yadav,Unreserved seat,634
+11122,12951,2023-01-13,Sunita Yadav,Travelling without ID,556
+11123,12345,2023-01-26,Manoj Verma,No ticket,322
+11124,12345,2023-06-27,Rajesh Kumar,Over luggage,717
+11125,12345,2023-09-23,Alok Singh,Travelling without ID,973
+11126,12953,2023-08-26,Sunita Yadav,Unreserved seat,526
+11127,12345,2023-06-06,Alok Singh,Travelling without ID,184
+11128,12951,2023-02-18,Alok Singh,Over luggage,178
+11129,12951,2023-12-22,Sunita Yadav,Seat change fraud,917
+11130,12953,2023-10-20,Ravi Kumar,Over luggage,956
+11131,12860,2023-12-29,Rajesh Kumar,Over luggage,389
+11132,12952,2023-05-17,Manoj Verma,Over luggage,313
+11133,12952,2023-12-29,Manoj Verma,No ticket,532
+11134,12860,2023-08-20,Sunita Yadav,No ticket,608
+11135,12953,2023-11-29,Anita Sharma,Over luggage,855
+11136,12953,2023-11-14,Alok Singh,Unreserved seat,642
+11137,12952,2023-12-15,Ravi Kumar,Over luggage,258
+11138,12951,2023-12-03,Rajesh Kumar,Seat change fraud,931
+11139,12952,2023-09-26,Alok Singh,Over luggage,415
+11140,12345,2023-08-18,Ravi Kumar,Unreserved seat,297
+11141,12951,2023-11-06,Ravi Kumar,No ticket,131
+11142,12952,2023-01-19,Alok Singh,Travelling without ID,808
+11143,12952,2023-01-22,Sunita Yadav,Seat change fraud,322
+11144,12951,2023-05-14,Anita Sharma,Unreserved seat,789
+11145,12953,2023-03-03,Anita Sharma,Seat change fraud,157
+11146,12345,2023-01-31,Alok Singh,No ticket,911
+11147,12951,2023-03-29,Anita Sharma,No ticket,567
+11148,12953,2023-07-10,Manoj Verma,Travelling without ID,797
+11149,12951,2023-06-28,Sunita Yadav,No ticket,534
+11150,12953,2023-06-06,Sunita Yadav,No ticket,855
+11151,12345,2023-11-29,Rajesh Kumar,Seat change fraud,355
+11152,12345,2023-07-29,Ravi Kumar,Over luggage,432
+11153,12953,2023-02-24,Rajesh Kumar,Seat change fraud,990
+11154,12951,2023-09-03,Alok Singh,Over luggage,416
+11155,12860,2023-04-05,Alok Singh,Travelling without ID,558
+11156,12952,2023-07-24,Alok Singh,No ticket,617
+11157,12952,2023-08-03,Rajesh Kumar,Travelling without ID,293
+11158,12951,2023-06-25,Rajesh Kumar,Travelling without ID,726
+11159,12860,2023-05-09,Sunita Yadav,Unreserved seat,518
+11160,12860,2023-10-24,Ravi Kumar,Seat change fraud,899
+11161,12952,2023-04-26,Rajesh Kumar,Unreserved seat,522
+11162,12860,2023-06-14,Sunita Yadav,Over luggage,941
+11163,12951,2023-04-20,Rajesh Kumar,Seat change fraud,176
+11164,12953,2023-07-29,Anita Sharma,Travelling without ID,586
+11165,12953,2023-02-17,Manoj Verma,Unreserved seat,943
+11166,12952,2023-04-19,Manoj Verma,Seat change fraud,242
+11167,12952,2023-02-03,Manoj Verma,Travelling without ID,883
+11168,12952,2023-06-23,Manoj Verma,Travelling without ID,422
+11169,12860,2023-06-11,Manoj Verma,Travelling without ID,412
+11170,12952,2023-12-09,Ravi Kumar,Unreserved seat,677
+11171,12952,2023-06-27,Anita Sharma,Unreserved seat,227
+11172,12953,2023-03-28,Sunita Yadav,Travelling without ID,495
+11173,12953,2023-02-06,Rajesh Kumar,Unreserved seat,260
+11174,12951,2023-01-27,Sunita Yadav,Travelling without ID,130
+11175,12345,2023-07-08,Alok Singh,Unreserved seat,597
+11176,12953,2023-01-27,Manoj Verma,No ticket,837
+11177,12860,2023-02-09,Rajesh Kumar,Unreserved seat,657
+11178,12952,2023-06-25,Anita Sharma,Unreserved seat,563
+11179,12953,2023-08-23,Anita Sharma,Seat change fraud,398
+11180,12953,2023-02-15,Manoj Verma,No ticket,643
+11181,12953,2023-12-29,Sunita Yadav,Seat change fraud,112
+11182,12953,2023-04-10,Ravi Kumar,Unreserved seat,711
+11183,12951,2023-05-07,Ravi Kumar,Travelling without ID,396
+11184,12952,2023-11-18,Ravi Kumar,Over luggage,249
+11185,12953,2023-10-17,Manoj Verma,Seat change fraud,170
+11186,12952,2023-07-11,Ravi Kumar,Seat change fraud,884
+11187,12860,2023-12-19,Ravi Kumar,Travelling without ID,802
+11188,12860,2023-06-07,Rajesh Kumar,Travelling without ID,195
+11189,12345,2023-06-30,Anita Sharma,Over luggage,329
+11190,12860,2023-04-17,Alok Singh,Unreserved seat,168
+11191,12953,2023-02-03,Rajesh Kumar,Seat change fraud,898
+11192,12952,2023-11-05,Rajesh Kumar,Travelling without ID,391
+11193,12952,2023-04-06,Alok Singh,Travelling without ID,520
+11194,12953,2023-02-15,Ravi Kumar,No ticket,986
+11195,12953,2023-01-08,Sunita Yadav,Over luggage,976
+11196,12860,2023-07-09,Sunita Yadav,No ticket,903
+11197,12345,2023-01-09,Anita Sharma,No ticket,400
+11198,12345,2023-06-26,Alok Singh,No ticket,283
+11199,12860,2023-09-18,Alok Singh,Over luggage,826
+11200,12953,2023-01-01,Sunita Yadav,Travelling without ID,796
+11201,12951,2023-03-30,Sunita Yadav,Over luggage,713
+11202,12951,2023-02-16,Sunita Yadav,Travelling without ID,464
+11203,12345,2023-05-05,Anita Sharma,Seat change fraud,475
+11204,12952,2023-04-12,Alok Singh,Over luggage,757
+11205,12345,2023-09-03,Ravi Kumar,Seat change fraud,895
+11206,12345,2023-04-21,Anita Sharma,Seat change fraud,707
+11207,12952,2023-03-06,Sunita Yadav,Seat change fraud,474
+11208,12952,2023-02-23,Ravi Kumar,No ticket,206
+11209,12952,2023-07-05,Alok Singh,Travelling without ID,319
+11210,12953,2023-05-17,Manoj Verma,Travelling without ID,260
+11211,12953,2023-10-20,Rajesh Kumar,Travelling without ID,449
+11212,12951,2023-08-09,Rajesh Kumar,Seat change fraud,506
+11213,12860,2023-02-27,Manoj Verma,Travelling without ID,381
+11214,12345,2023-11-23,Alok Singh,Over luggage,822
+11215,12860,2023-06-02,Ravi Kumar,Travelling without ID,500
+11216,12860,2023-02-20,Ravi Kumar,Over luggage,294
+11217,12860,2023-01-28,Alok Singh,Seat change fraud,384
+11218,12860,2023-11-23,Alok Singh,Travelling without ID,708
+11219,12345,2023-01-02,Alok Singh,No ticket,269
+11220,12345,2023-08-27,Rajesh Kumar,Unreserved seat,494
+11221,12951,2023-01-15,Manoj Verma,Seat change fraud,659
+11222,12951,2023-04-28,Alok Singh,Travelling without ID,212
+11223,12952,2023-08-04,Manoj Verma,Travelling without ID,274
+11224,12345,2023-10-05,Ravi Kumar,Unreserved seat,392
+11225,12952,2023-05-18,Rajesh Kumar,Seat change fraud,320
+11226,12860,2023-04-15,Anita Sharma,Travelling without ID,459
+11227,12952,2023-06-07,Sunita Yadav,Travelling without ID,725
+11228,12860,2023-04-16,Ravi Kumar,Unreserved seat,804
+11229,12953,2023-07-06,Ravi Kumar,Over luggage,368
+11230,12952,2023-12-26,Rajesh Kumar,No ticket,307
+11231,12952,2023-08-21,Alok Singh,Unreserved seat,168
+11232,12953,2023-07-24,Alok Singh,Travelling without ID,819
+11233,12345,2023-05-10,Alok Singh,Seat change fraud,954
+11234,12953,2023-09-26,Anita Sharma,Over luggage,366
+11235,12860,2023-04-07,Alok Singh,Seat change fraud,238
+11236,12345,2023-10-23,Ravi Kumar,Over luggage,505
+11237,12953,2023-03-08,Alok Singh,No ticket,888
+11238,12345,2023-11-06,Rajesh Kumar,No ticket,289
+11239,12953,2023-08-02,Ravi Kumar,Over luggage,891
+11240,12952,2023-07-18,Alok Singh,Seat change fraud,420
+11241,12345,2023-02-13,Alok Singh,Travelling without ID,633
+11242,12860,2023-05-27,Ravi Kumar,No ticket,355
+11243,12951,2023-04-06,Alok Singh,Unreserved seat,181
+11244,12860,2023-03-18,Sunita Yadav,Unreserved seat,330
+11245,12951,2023-12-21,Sunita Yadav,Seat change fraud,510
+11246,12345,2023-02-14,Manoj Verma,Seat change fraud,556
+11247,12951,2023-05-03,Anita Sharma,No ticket,793
+11248,12953,2023-03-11,Sunita Yadav,Unreserved seat,996
+11249,12952,2023-09-15,Alok Singh,Unreserved seat,823
+11250,12860,2023-10-12,Ravi Kumar,Travelling without ID,718
+11251,12345,2023-04-21,Sunita Yadav,No ticket,379
+11252,12345,2023-05-11,Ravi Kumar,Over luggage,339
+11253,12951,2023-05-22,Sunita Yadav,Seat change fraud,685
+11254,12345,2023-06-02,Ravi Kumar,Unreserved seat,221
+11255,12951,2023-07-05,Rajesh Kumar,Seat change fraud,546
+11256,12345,2023-08-29,Ravi Kumar,Seat change fraud,829
+11257,12345,2023-04-17,Anita Sharma,Seat change fraud,215
+11258,12860,2023-05-14,Alok Singh,Travelling without ID,209
+11259,12953,2023-10-08,Sunita Yadav,No ticket,124
+11260,12953,2023-08-07,Ravi Kumar,No ticket,259
+11261,12345,2023-10-16,Manoj Verma,Travelling without ID,238
+11262,12953,2023-03-17,Ravi Kumar,No ticket,836
+11263,12953,2023-09-20,Sunita Yadav,Over luggage,925
+11264,12345,2023-05-03,Anita Sharma,Unreserved seat,826
+11265,12951,2023-02-01,Alok Singh,Seat change fraud,814
+11266,12345,2023-10-18,Alok Singh,No ticket,778
+11267,12953,2023-10-02,Anita Sharma,Travelling without ID,446
+11268,12345,2023-05-18,Sunita Yadav,Unreserved seat,683
+11269,12952,2023-01-13,Alok Singh,Seat change fraud,962
+11270,12860,2023-10-01,Sunita Yadav,Seat change fraud,126
+11271,12345,2023-08-08,Rajesh Kumar,No ticket,432
+11272,12952,2023-03-28,Manoj Verma,Over luggage,767
+11273,12860,2023-06-11,Anita Sharma,Over luggage,676
+11274,12345,2023-05-12,Rajesh Kumar,Over luggage,312
+11275,12952,2023-11-26,Anita Sharma,No ticket,392
+11276,12860,2023-03-15,Manoj Verma,Unreserved seat,325
+11277,12952,2023-01-15,Sunita Yadav,Over luggage,731
+11278,12953,2023-09-16,Ravi Kumar,No ticket,912
+11279,12860,2023-09-06,Anita Sharma,Seat change fraud,536
+11280,12952,2023-04-05,Anita Sharma,Travelling without ID,414
+11281,12952,2023-12-30,Sunita Yadav,Over luggage,857
+11282,12951,2023-01-14,Sunita Yadav,Travelling without ID,168
+11283,12345,2023-05-26,Ravi Kumar,Over luggage,114
+11284,12345,2023-05-18,Ravi Kumar,No ticket,409
+11285,12952,2023-10-03,Sunita Yadav,No ticket,495
+11286,12953,2023-02-01,Alok Singh,Seat change fraud,910
+11287,12860,2023-03-27,Alok Singh,Seat change fraud,378
+11288,12952,2023-10-14,Ravi Kumar,Over luggage,447
+11289,12860,2023-05-29,Anita Sharma,Travelling without ID,388
+11290,12953,2023-04-02,Ravi Kumar,Over luggage,506
+11291,12860,2023-11-14,Manoj Verma,Over luggage,677
+11292,12345,2023-04-11,Sunita Yadav,Unreserved seat,353
+11293,12951,2023-12-19,Rajesh Kumar,Over luggage,541
+11294,12345,2023-07-12,Rajesh Kumar,No ticket,154
+11295,12345,2023-05-10,Sunita Yadav,Over luggage,981
+11296,12953,2023-08-05,Anita Sharma,Unreserved seat,642
+11297,12952,2023-08-02,Sunita Yadav,No ticket,964
+11298,12345,2023-06-25,Manoj Verma,No ticket,272
+11299,12345,2023-02-01,Anita Sharma,Unreserved seat,353
+11300,12953,2023-06-08,Ravi Kumar,Seat change fraud,722
+11301,12952,2023-02-05,Alok Singh,Over luggage,893
+11302,12951,2023-03-10,Alok Singh,Unreserved seat,598
+11303,12951,2023-09-25,Manoj Verma,Over luggage,391
+11304,12952,2023-06-15,Manoj Verma,Seat change fraud,968
+11305,12953,2023-01-27,Sunita Yadav,Seat change fraud,362
+11306,12952,2023-11-28,Anita Sharma,Over luggage,291
+11307,12345,2023-02-26,Manoj Verma,Travelling without ID,764
+11308,12953,2023-11-25,Alok Singh,Over luggage,606
+11309,12345,2023-07-13,Sunita Yadav,Travelling without ID,484
+11310,12952,2023-02-14,Rajesh Kumar,Over luggage,239
+11311,12860,2023-06-12,Ravi Kumar,Seat change fraud,281
+11312,12951,2023-07-11,Alok Singh,Travelling without ID,590
+11313,12951,2023-06-01,Alok Singh,No ticket,668
+11314,12951,2023-09-13,Manoj Verma,No ticket,313
+11315,12345,2023-06-03,Anita Sharma,Unreserved seat,119
+11316,12953,2023-07-11,Rajesh Kumar,Seat change fraud,145
+11317,12951,2023-04-24,Ravi Kumar,Travelling without ID,1000
+11318,12952,2023-12-22,Rajesh Kumar,Travelling without ID,301
+11319,12952,2023-02-26,Sunita Yadav,No ticket,110
+11320,12860,2023-03-08,Sunita Yadav,Seat change fraud,512
+11321,12860,2023-05-26,Manoj Verma,Seat change fraud,644
+11322,12860,2023-12-18,Anita Sharma,Travelling without ID,893
+11323,12345,2023-11-06,Anita Sharma,Seat change fraud,497
+11324,12860,2023-04-03,Rajesh Kumar,No ticket,248
+11325,12951,2023-10-03,Alok Singh,No ticket,531
+11326,12952,2023-08-06,Alok Singh,Over luggage,858
+11327,12952,2023-10-30,Ravi Kumar,Seat change fraud,193
+11328,12860,2023-07-18,Sunita Yadav,Unreserved seat,755
+11329,12345,2023-11-28,Alok Singh,Over luggage,683
+11330,12951,2023-01-10,Rajesh Kumar,Unreserved seat,140
+11331,12953,2023-12-12,Alok Singh,No ticket,686
+11332,12952,2023-12-06,Rajesh Kumar,Over luggage,257
+11333,12952,2023-07-30,Ravi Kumar,Over luggage,608
+11334,12860,2023-07-09,Rajesh Kumar,No ticket,395
+11335,12953,2023-05-21,Anita Sharma,Seat change fraud,885
+11336,12952,2023-03-31,Manoj Verma,No ticket,610
+11337,12951,2023-03-08,Alok Singh,Over luggage,182
+11338,12953,2023-09-17,Ravi Kumar,Over luggage,843
+11339,12860,2023-12-20,Anita Sharma,Unreserved seat,774
+11340,12951,2023-05-01,Rajesh Kumar,Seat change fraud,207
+11341,12952,2023-09-30,Manoj Verma,Travelling without ID,485
+11342,12953,2023-01-24,Ravi Kumar,Travelling without ID,600
+11343,12953,2023-05-26,Anita Sharma,Seat change fraud,728
+11344,12953,2023-08-20,Rajesh Kumar,Travelling without ID,240
+11345,12953,2023-12-02,Ravi Kumar,Seat change fraud,670
+11346,12953,2023-05-14,Rajesh Kumar,Over luggage,446
+11347,12345,2023-05-24,Alok Singh,Over luggage,773
+11348,12953,2023-02-05,Sunita Yadav,No ticket,584
+11349,12345,2023-01-24,Rajesh Kumar,Unreserved seat,460
+11350,12860,2023-09-01,Rajesh Kumar,Seat change fraud,151
+11351,12951,2023-02-27,Sunita Yadav,Seat change fraud,590
+11352,12953,2023-04-09,Rajesh Kumar,Travelling without ID,708
+11353,12952,2023-08-09,Rajesh Kumar,Seat change fraud,272
+11354,12952,2023-12-22,Anita Sharma,Travelling without ID,780
+11355,12953,2023-11-24,Rajesh Kumar,Seat change fraud,552
+11356,12345,2023-02-03,Anita Sharma,Unreserved seat,589
+11357,12860,2023-05-18,Sunita Yadav,Seat change fraud,311
+11358,12345,2023-07-28,Anita Sharma,Seat change fraud,201
+11359,12952,2023-12-30,Ravi Kumar,Over luggage,668
+11360,12952,2023-05-04,Anita Sharma,Over luggage,997
+11361,12860,2023-12-14,Anita Sharma,No ticket,209
+11362,12345,2023-05-14,Anita Sharma,Over luggage,150
+11363,12953,2023-04-25,Ravi Kumar,No ticket,694
+11364,12860,2023-02-27,Rajesh Kumar,Seat change fraud,139
+11365,12952,2023-06-23,Ravi Kumar,Over luggage,872
+11366,12345,2023-02-13,Rajesh Kumar,Seat change fraud,794
+11367,12345,2023-11-14,Manoj Verma,Seat change fraud,133
+11368,12860,2023-09-19,Anita Sharma,No ticket,794
+11369,12345,2023-10-13,Rajesh Kumar,Unreserved seat,776
+11370,12953,2023-03-20,Sunita Yadav,Over luggage,257
+11371,12953,2023-07-31,Alok Singh,Unreserved seat,691
+11372,12951,2023-03-09,Manoj Verma,No ticket,157
+11373,12952,2023-03-04,Alok Singh,Seat change fraud,258
+11374,12953,2023-12-23,Rajesh Kumar,Unreserved seat,840
+11375,12953,2023-04-24,Alok Singh,Unreserved seat,862
+11376,12953,2023-10-30,Manoj Verma,Unreserved seat,574
+11377,12952,2023-11-19,Sunita Yadav,Over luggage,939
+11378,12345,2023-01-30,Sunita Yadav,Over luggage,837
+11379,12952,2023-11-28,Manoj Verma,Travelling without ID,842
+11380,12345,2023-03-23,Anita Sharma,Seat change fraud,466
+11381,12953,2023-05-20,Anita Sharma,No ticket,416
+11382,12953,2023-08-27,Sunita Yadav,No ticket,970
+11383,12345,2023-11-23,Anita Sharma,Travelling without ID,712
+11384,12952,2023-04-13,Rajesh Kumar,No ticket,286
+11385,12951,2023-04-06,Sunita Yadav,No ticket,859
+11386,12345,2023-08-11,Anita Sharma,Travelling without ID,155
+11387,12860,2023-11-03,Manoj Verma,Seat change fraud,949
+11388,12952,2023-10-29,Ravi Kumar,Travelling without ID,513
+11389,12953,2023-04-05,Rajesh Kumar,Seat change fraud,541
+11390,12952,2023-11-02,Alok Singh,Unreserved seat,339
+11391,12951,2023-06-10,Anita Sharma,Unreserved seat,995
+11392,12860,2023-09-25,Manoj Verma,Unreserved seat,848
+11393,12860,2023-03-06,Anita Sharma,No ticket,519
+11394,12951,2023-06-17,Sunita Yadav,Over luggage,591
+11395,12345,2023-08-23,Rajesh Kumar,Unreserved seat,413
+11396,12860,2023-04-22,Manoj Verma,No ticket,131
+11397,12952,2023-04-01,Sunita Yadav,Seat change fraud,968
+11398,12345,2023-02-14,Anita Sharma,Seat change fraud,915
+11399,12345,2023-07-25,Ravi Kumar,Over luggage,305
+11400,12345,2023-09-17,Alok Singh,Seat change fraud,844
+11401,12953,2023-01-07,Anita Sharma,Unreserved seat,435
+11402,12952,2023-12-25,Rajesh Kumar,No ticket,345
+11403,12953,2023-07-15,Rajesh Kumar,Over luggage,183
+11404,12953,2023-11-13,Manoj Verma,Seat change fraud,353
+11405,12345,2023-01-03,Anita Sharma,Unreserved seat,878
+11406,12345,2023-02-10,Ravi Kumar,Over luggage,120
+11407,12952,2023-12-29,Alok Singh,Unreserved seat,359
+11408,12952,2023-11-01,Alok Singh,No ticket,382
+11409,12345,2023-08-07,Manoj Verma,Seat change fraud,575
+11410,12345,2023-11-27,Ravi Kumar,No ticket,812
+11411,12860,2023-12-28,Anita Sharma,No ticket,515
+11412,12860,2023-04-04,Anita Sharma,No ticket,628
+11413,12345,2023-02-20,Rajesh Kumar,Unreserved seat,702
+11414,12345,2023-08-28,Manoj Verma,Unreserved seat,125
+11415,12345,2023-02-13,Anita Sharma,Travelling without ID,782
+11416,12953,2023-12-21,Rajesh Kumar,Over luggage,1000
+11417,12345,2023-10-09,Sunita Yadav,Travelling without ID,681
+11418,12951,2023-05-10,Rajesh Kumar,Seat change fraud,863
+11419,12951,2023-09-06,Manoj Verma,Over luggage,754
+11420,12952,2023-03-02,Alok Singh,Over luggage,488
+11421,12953,2023-07-25,Anita Sharma,Unreserved seat,569
+11422,12952,2023-09-28,Rajesh Kumar,No ticket,647
+11423,12345,2023-03-18,Anita Sharma,Travelling without ID,252
+11424,12860,2023-12-02,Rajesh Kumar,Travelling without ID,770
+11425,12345,2023-02-15,Rajesh Kumar,Over luggage,159
+11426,12860,2023-01-11,Rajesh Kumar,Unreserved seat,552
+11427,12860,2023-04-09,Rajesh Kumar,Seat change fraud,639
+11428,12951,2023-06-12,Ravi Kumar,Seat change fraud,515
+11429,12952,2023-09-05,Manoj Verma,No ticket,546
+11430,12860,2023-09-22,Sunita Yadav,Unreserved seat,664
+11431,12860,2023-10-10,Rajesh Kumar,No ticket,107
+11432,12345,2023-08-01,Manoj Verma,Travelling without ID,745
+11433,12860,2023-10-11,Manoj Verma,Seat change fraud,364
+11434,12860,2023-07-06,Manoj Verma,No ticket,815
+11435,12952,2023-05-14,Alok Singh,Unreserved seat,499
+11436,12952,2023-11-20,Ravi Kumar,Seat change fraud,872
+11437,12952,2023-12-04,Manoj Verma,Unreserved seat,826
+11438,12952,2023-06-06,Rajesh Kumar,Seat change fraud,870
+11439,12952,2023-05-16,Rajesh Kumar,Unreserved seat,348
+11440,12952,2023-08-02,Manoj Verma,Unreserved seat,574
+11441,12345,2023-02-12,Manoj Verma,Unreserved seat,359
+11442,12345,2023-11-20,Sunita Yadav,Seat change fraud,252
+11443,12345,2023-06-01,Ravi Kumar,Over luggage,925
+11444,12860,2023-04-24,Anita Sharma,Seat change fraud,548
+11445,12952,2023-11-01,Alok Singh,Seat change fraud,163
+11446,12952,2023-06-27,Rajesh Kumar,Unreserved seat,875
+11447,12345,2023-10-26,Alok Singh,Travelling without ID,425
+11448,12345,2023-07-24,Ravi Kumar,Travelling without ID,292
+11449,12345,2023-12-09,Alok Singh,Over luggage,104
+11450,12952,2023-09-04,Anita Sharma,Seat change fraud,452
+11451,12952,2023-11-11,Alok Singh,No ticket,724
+11452,12952,2023-09-17,Manoj Verma,No ticket,573
+11453,12952,2023-07-10,Alok Singh,Unreserved seat,850
+11454,12953,2023-10-21,Sunita Yadav,Seat change fraud,245
+11455,12952,2023-03-12,Manoj Verma,Travelling without ID,696
+11456,12952,2023-11-20,Sunita Yadav,Over luggage,836
+11457,12952,2023-03-20,Alok Singh,Over luggage,730
+11458,12951,2023-03-07,Sunita Yadav,Unreserved seat,532
+11459,12951,2023-11-12,Alok Singh,Seat change fraud,556
+11460,12345,2023-10-17,Anita Sharma,Seat change fraud,333
+11461,12860,2023-02-02,Alok Singh,Over luggage,658
+11462,12951,2023-02-05,Manoj Verma,Travelling without ID,110
+11463,12952,2023-02-15,Rajesh Kumar,Unreserved seat,203
+11464,12345,2023-06-07,Sunita Yadav,Over luggage,816
+11465,12860,2023-11-29,Rajesh Kumar,Unreserved seat,604
+11466,12951,2023-06-20,Manoj Verma,No ticket,727
+11467,12952,2023-01-04,Manoj Verma,Unreserved seat,350
+11468,12952,2023-12-26,Ravi Kumar,Seat change fraud,152
+11469,12860,2023-10-17,Rajesh Kumar,Over luggage,822
+11470,12953,2023-01-22,Rajesh Kumar,Travelling without ID,254
+11471,12952,2023-05-03,Rajesh Kumar,Travelling without ID,409
+11472,12345,2023-04-07,Ravi Kumar,No ticket,323
+11473,12952,2023-08-22,Alok Singh,No ticket,428
+11474,12953,2023-06-11,Sunita Yadav,Travelling without ID,591
+11475,12952,2023-10-06,Rajesh Kumar,Travelling without ID,272
+11476,12952,2023-01-17,Sunita Yadav,No ticket,918
+11477,12952,2023-05-17,Sunita Yadav,No ticket,253
+11478,12952,2023-10-29,Rajesh Kumar,Travelling without ID,657
+11479,12345,2023-07-18,Ravi Kumar,Travelling without ID,605
+11480,12345,2023-05-17,Ravi Kumar,Travelling without ID,351
+11481,12951,2023-01-06,Alok Singh,Unreserved seat,284
+11482,12952,2023-12-22,Ravi Kumar,No ticket,631
+11483,12345,2023-05-23,Alok Singh,Unreserved seat,804
+11484,12951,2023-02-04,Alok Singh,No ticket,389
+11485,12345,2023-01-19,Manoj Verma,Over luggage,643
+11486,12953,2023-09-27,Ravi Kumar,Seat change fraud,276
+11487,12345,2023-03-03,Alok Singh,Seat change fraud,283
+11488,12951,2023-05-30,Anita Sharma,Seat change fraud,228
+11489,12860,2023-04-26,Alok Singh,Unreserved seat,273
+11490,12952,2023-04-11,Anita Sharma,Over luggage,565
+11491,12951,2023-03-23,Anita Sharma,Over luggage,503
+11492,12952,2023-12-06,Rajesh Kumar,Over luggage,458
+11493,12860,2023-11-28,Sunita Yadav,Unreserved seat,956
+11494,12953,2023-06-21,Sunita Yadav,Over luggage,205
+11495,12860,2023-10-07,Sunita Yadav,Unreserved seat,357
+11496,12860,2023-01-06,Anita Sharma,No ticket,144
+11497,12345,2023-07-14,Rajesh Kumar,Travelling without ID,693
+11498,12953,2023-02-02,Sunita Yadav,Travelling without ID,825
+11499,12951,2023-02-01,Anita Sharma,Over luggage,320
+11500,12345,2023-07-21,Anita Sharma,Over luggage,309
+11501,12952,2023-01-31,Anita Sharma,Travelling without ID,998
+11502,12953,2023-06-07,Rajesh Kumar,Travelling without ID,127
+11503,12952,2023-04-30,Sunita Yadav,No ticket,685
+11504,12860,2023-08-07,Ravi Kumar,Over luggage,796
+11505,12860,2023-01-27,Manoj Verma,Travelling without ID,819
+11506,12860,2023-10-16,Anita Sharma,Over luggage,673
+11507,12951,2023-03-31,Rajesh Kumar,Over luggage,285
+11508,12952,2023-11-28,Ravi Kumar,No ticket,216
+11509,12953,2023-02-02,Anita Sharma,Travelling without ID,779
+11510,12860,2023-01-26,Sunita Yadav,Unreserved seat,895
+11511,12952,2023-07-22,Ravi Kumar,Unreserved seat,183
+11512,12860,2023-12-10,Sunita Yadav,No ticket,575
+11513,12953,2023-05-17,Rajesh Kumar,Over luggage,954
+11514,12345,2023-11-19,Manoj Verma,Unreserved seat,421
+11515,12953,2023-01-28,Ravi Kumar,Unreserved seat,142
+11516,12952,2023-07-22,Sunita Yadav,Over luggage,510
+11517,12952,2023-05-03,Ravi Kumar,Over luggage,239
+11518,12952,2023-03-19,Anita Sharma,Travelling without ID,223
+11519,12952,2023-01-28,Alok Singh,Seat change fraud,326
+11520,12345,2023-03-28,Manoj Verma,Seat change fraud,530
+11521,12952,2023-10-24,Manoj Verma,No ticket,891
+11522,12952,2023-03-23,Alok Singh,Over luggage,856
+11523,12860,2023-05-13,Sunita Yadav,Seat change fraud,217
+11524,12860,2023-02-04,Alok Singh,Over luggage,188
+11525,12860,2023-06-12,Manoj Verma,Seat change fraud,782
+11526,12952,2023-07-22,Manoj Verma,Seat change fraud,497
+11527,12345,2023-03-07,Anita Sharma,Over luggage,787
+11528,12953,2023-10-09,Rajesh Kumar,Unreserved seat,625
+11529,12952,2023-07-19,Anita Sharma,Seat change fraud,161
+11530,12952,2023-03-29,Anita Sharma,Seat change fraud,231
+11531,12860,2023-11-01,Sunita Yadav,Over luggage,165
+11532,12952,2023-12-19,Alok Singh,Over luggage,533
+11533,12951,2023-08-19,Anita Sharma,Over luggage,868
+11534,12953,2023-12-12,Rajesh Kumar,Seat change fraud,171
+11535,12952,2023-10-23,Anita Sharma,Over luggage,368
+11536,12345,2023-09-27,Ravi Kumar,Travelling without ID,481
+11537,12952,2023-09-08,Ravi Kumar,Travelling without ID,595
+11538,12860,2023-11-14,Manoj Verma,Unreserved seat,113
+11539,12951,2023-10-08,Ravi Kumar,Unreserved seat,133
+11540,12345,2023-07-06,Alok Singh,Seat change fraud,884
+11541,12951,2023-05-24,Rajesh Kumar,Travelling without ID,275
+11542,12951,2023-07-28,Alok Singh,No ticket,704
+11543,12953,2023-08-26,Sunita Yadav,No ticket,328
+11544,12953,2023-06-01,Alok Singh,Unreserved seat,614
+11545,12953,2023-07-03,Alok Singh,Over luggage,276
+11546,12345,2023-11-08,Alok Singh,No ticket,638
+11547,12953,2023-03-16,Rajesh Kumar,Seat change fraud,890
+11548,12345,2023-02-17,Manoj Verma,Unreserved seat,479
+11549,12952,2023-10-05,Ravi Kumar,Unreserved seat,486
+11550,12953,2023-08-12,Sunita Yadav,Travelling without ID,230
+11551,12952,2023-12-26,Manoj Verma,No ticket,192
+11552,12952,2023-06-27,Rajesh Kumar,Travelling without ID,262
+11553,12952,2023-01-27,Rajesh Kumar,No ticket,101
+11554,12952,2023-01-19,Ravi Kumar,No ticket,414
+11555,12951,2023-04-13,Sunita Yadav,Travelling without ID,550
+11556,12345,2023-03-25,Sunita Yadav,Seat change fraud,327
+11557,12860,2023-04-03,Ravi Kumar,Unreserved seat,296
+11558,12860,2023-03-05,Manoj Verma,Seat change fraud,748
+11559,12951,2023-04-04,Alok Singh,Travelling without ID,272
+11560,12952,2023-11-05,Rajesh Kumar,Travelling without ID,146
+11561,12345,2023-04-18,Ravi Kumar,No ticket,789
+11562,12951,2023-06-10,Manoj Verma,Travelling without ID,421
+11563,12860,2023-05-15,Rajesh Kumar,Travelling without ID,381
+11564,12951,2023-08-12,Ravi Kumar,Over luggage,488
+11565,12952,2023-03-18,Ravi Kumar,Unreserved seat,421
+11566,12951,2023-07-16,Anita Sharma,Seat change fraud,230
+11567,12953,2023-07-09,Alok Singh,Over luggage,385
+11568,12952,2023-11-05,Ravi Kumar,No ticket,194
+11569,12953,2023-12-03,Ravi Kumar,Unreserved seat,530
+11570,12345,2023-04-23,Rajesh Kumar,Seat change fraud,936
+11571,12953,2023-07-30,Sunita Yadav,No ticket,511
+11572,12860,2023-11-11,Rajesh Kumar,Travelling without ID,758
+11573,12952,2023-02-18,Alok Singh,No ticket,139
+11574,12951,2023-02-24,Anita Sharma,Seat change fraud,860
+11575,12951,2023-09-14,Manoj Verma,No ticket,726
+11576,12860,2023-07-27,Rajesh Kumar,Over luggage,716
+11577,12345,2023-03-08,Manoj Verma,No ticket,854
+11578,12953,2023-10-04,Sunita Yadav,No ticket,521
+11579,12953,2023-04-21,Sunita Yadav,Unreserved seat,477
+11580,12952,2023-12-27,Sunita Yadav,Seat change fraud,935
+11581,12953,2023-03-13,Alok Singh,Over luggage,771
+11582,12952,2023-06-26,Anita Sharma,No ticket,840
+11583,12345,2023-11-21,Rajesh Kumar,Seat change fraud,293
+11584,12345,2023-01-06,Anita Sharma,No ticket,658
+11585,12953,2023-08-01,Ravi Kumar,Travelling without ID,587
+11586,12860,2023-03-30,Anita Sharma,Travelling without ID,926
+11587,12953,2023-11-19,Manoj Verma,Unreserved seat,953
+11588,12952,2023-01-28,Anita Sharma,Over luggage,599
+11589,12953,2023-11-11,Ravi Kumar,Over luggage,372
+11590,12952,2023-11-25,Sunita Yadav,Seat change fraud,229
+11591,12345,2023-07-27,Rajesh Kumar,Seat change fraud,998
+11592,12860,2023-02-06,Alok Singh,Unreserved seat,391
+11593,12951,2023-01-07,Rajesh Kumar,Over luggage,934
+11594,12345,2023-05-04,Rajesh Kumar,No ticket,571
+11595,12860,2023-01-29,Sunita Yadav,Seat change fraud,464
+11596,12860,2023-08-30,Manoj Verma,Travelling without ID,788
+11597,12860,2023-11-21,Anita Sharma,Over luggage,154
+11598,12953,2023-11-24,Ravi Kumar,Unreserved seat,383
+11599,12953,2023-03-11,Alok Singh,Unreserved seat,443
+11600,12860,2023-12-30,Sunita Yadav,No ticket,308
+11601,12345,2023-11-19,Anita Sharma,Unreserved seat,798
+11602,12345,2023-03-24,Sunita Yadav,Over luggage,319
+11603,12345,2023-10-09,Manoj Verma,Seat change fraud,594
+11604,12345,2023-11-07,Manoj Verma,Travelling without ID,903
+11605,12860,2023-11-15,Anita Sharma,Seat change fraud,130
+11606,12951,2023-02-04,Rajesh Kumar,Over luggage,825
+11607,12860,2023-03-24,Ravi Kumar,Unreserved seat,265
+11608,12953,2023-09-08,Alok Singh,Unreserved seat,570
+11609,12952,2023-02-02,Ravi Kumar,No ticket,981
+11610,12953,2023-04-17,Manoj Verma,Travelling without ID,837
+11611,12345,2023-09-07,Alok Singh,Unreserved seat,296
+11612,12952,2023-10-17,Alok Singh,Unreserved seat,753
+11613,12952,2023-09-03,Anita Sharma,Seat change fraud,527
+11614,12345,2023-12-12,Alok Singh,Over luggage,925
+11615,12952,2023-03-31,Anita Sharma,Over luggage,921
+11616,12345,2023-09-08,Ravi Kumar,Unreserved seat,711
+11617,12345,2023-01-09,Sunita Yadav,No ticket,907
+11618,12953,2023-05-02,Alok Singh,Travelling without ID,370
+11619,12951,2023-03-19,Manoj Verma,Unreserved seat,434
+11620,12860,2023-08-17,Rajesh Kumar,Seat change fraud,307
+11621,12951,2023-10-09,Manoj Verma,Travelling without ID,679
+11622,12952,2023-07-06,Alok Singh,Unreserved seat,383
+11623,12951,2023-12-13,Rajesh Kumar,Unreserved seat,484
+11624,12953,2023-10-09,Ravi Kumar,Over luggage,463
+11625,12951,2023-07-03,Ravi Kumar,Travelling without ID,560
+11626,12953,2023-06-30,Ravi Kumar,Travelling without ID,414
+11627,12860,2023-03-03,Alok Singh,Unreserved seat,754
+11628,12860,2023-01-10,Ravi Kumar,No ticket,836
+11629,12860,2023-02-11,Sunita Yadav,Over luggage,139
+11630,12953,2023-06-09,Alok Singh,No ticket,736
+11631,12860,2023-12-01,Sunita Yadav,Over luggage,600
+11632,12952,2023-04-03,Rajesh Kumar,Seat change fraud,315
+11633,12951,2023-01-26,Rajesh Kumar,Seat change fraud,130
+11634,12860,2023-03-13,Alok Singh,No ticket,220
+11635,12860,2023-08-09,Sunita Yadav,Over luggage,709
+11636,12952,2023-10-06,Alok Singh,Unreserved seat,707
+11637,12953,2023-02-21,Sunita Yadav,No ticket,265
+11638,12952,2023-11-18,Anita Sharma,Travelling without ID,258
+11639,12345,2023-03-15,Sunita Yadav,No ticket,184
+11640,12952,2023-04-06,Anita Sharma,Travelling without ID,757
+11641,12951,2023-02-01,Alok Singh,Seat change fraud,593
+11642,12951,2023-01-11,Sunita Yadav,Unreserved seat,474
+11643,12951,2023-11-11,Anita Sharma,Travelling without ID,932
+11644,12953,2023-12-15,Ravi Kumar,Over luggage,443
+11645,12345,2023-04-09,Sunita Yadav,Seat change fraud,391
+11646,12952,2023-04-28,Ravi Kumar,Seat change fraud,481
+11647,12953,2023-07-24,Rajesh Kumar,Travelling without ID,798
+11648,12953,2023-03-24,Manoj Verma,No ticket,805
+11649,12953,2023-06-05,Rajesh Kumar,Seat change fraud,852
+11650,12951,2023-10-21,Anita Sharma,No ticket,945
+11651,12860,2023-11-13,Alok Singh,Unreserved seat,659
+11652,12951,2023-09-23,Sunita Yadav,Over luggage,792
+11653,12953,2023-12-09,Rajesh Kumar,Unreserved seat,282
+11654,12952,2023-04-12,Anita Sharma,Seat change fraud,102
+11655,12860,2023-12-23,Manoj Verma,Over luggage,839
+11656,12951,2023-10-19,Alok Singh,Unreserved seat,229
+11657,12951,2023-10-21,Rajesh Kumar,Unreserved seat,340
+11658,12952,2023-06-19,Sunita Yadav,Unreserved seat,676
+11659,12860,2023-10-02,Anita Sharma,Over luggage,945
+11660,12952,2023-01-27,Rajesh Kumar,Over luggage,559
+11661,12345,2023-03-21,Anita Sharma,No ticket,218
+11662,12345,2023-02-22,Ravi Kumar,No ticket,827
+11663,12860,2023-06-24,Ravi Kumar,No ticket,200
+11664,12953,2023-06-04,Rajesh Kumar,No ticket,943
+11665,12953,2023-10-22,Rajesh Kumar,Unreserved seat,692
+11666,12953,2023-12-10,Rajesh Kumar,No ticket,907
+11667,12952,2023-08-15,Manoj Verma,Seat change fraud,469
+11668,12952,2023-07-15,Rajesh Kumar,Seat change fraud,146
+11669,12951,2023-06-11,Sunita Yadav,No ticket,641
+11670,12860,2023-06-08,Sunita Yadav,Over luggage,518
+11671,12345,2023-06-14,Manoj Verma,Seat change fraud,944
+11672,12953,2023-07-21,Alok Singh,Seat change fraud,906
+11673,12345,2023-05-03,Alok Singh,Over luggage,965
+11674,12952,2023-02-03,Ravi Kumar,Unreserved seat,664
+11675,12952,2023-09-15,Alok Singh,Seat change fraud,274
+11676,12345,2023-06-28,Manoj Verma,No ticket,732
+11677,12952,2023-06-15,Alok Singh,Travelling without ID,361
+11678,12345,2023-09-25,Ravi Kumar,Travelling without ID,938
+11679,12952,2023-01-29,Ravi Kumar,Unreserved seat,634
+11680,12953,2023-04-12,Ravi Kumar,No ticket,672
+11681,12952,2023-03-30,Rajesh Kumar,Unreserved seat,360
+11682,12953,2023-09-28,Anita Sharma,Unreserved seat,967
+11683,12951,2023-10-18,Rajesh Kumar,Unreserved seat,320
+11684,12951,2023-12-24,Rajesh Kumar,Seat change fraud,993
+11685,12345,2023-06-07,Rajesh Kumar,Travelling without ID,199
+11686,12345,2023-01-16,Sunita Yadav,No ticket,593
+11687,12860,2023-03-30,Manoj Verma,Unreserved seat,924
+11688,12951,2023-05-23,Rajesh Kumar,Seat change fraud,961
+11689,12952,2023-06-26,Rajesh Kumar,No ticket,540
+11690,12952,2023-09-17,Anita Sharma,No ticket,973
+11691,12953,2023-10-26,Alok Singh,No ticket,618
+11692,12952,2023-11-24,Manoj Verma,Over luggage,513
+11693,12953,2023-03-05,Manoj Verma,Seat change fraud,283
+11694,12952,2023-08-25,Ravi Kumar,Over luggage,546
+11695,12953,2023-05-17,Sunita Yadav,Travelling without ID,462
+11696,12345,2023-09-15,Sunita Yadav,Travelling without ID,429
+11697,12860,2023-06-26,Alok Singh,No ticket,901
+11698,12345,2023-01-28,Ravi Kumar,Seat change fraud,751
+11699,12952,2023-07-28,Ravi Kumar,Travelling without ID,549
+11700,12951,2023-12-25,Rajesh Kumar,Unreserved seat,633
+11701,12860,2023-02-15,Ravi Kumar,Over luggage,373
+11702,12951,2023-02-02,Anita Sharma,No ticket,173
+11703,12951,2023-03-31,Manoj Verma,Travelling without ID,128
+11704,12951,2023-06-06,Manoj Verma,No ticket,767
+11705,12345,2023-02-03,Anita Sharma,Unreserved seat,795
+11706,12951,2023-06-06,Rajesh Kumar,Over luggage,481
+11707,12951,2023-10-23,Alok Singh,Over luggage,538
+11708,12952,2023-06-28,Manoj Verma,Travelling without ID,555
+11709,12951,2023-01-09,Alok Singh,No ticket,612
+11710,12860,2023-03-02,Alok Singh,Over luggage,332
+11711,12953,2023-12-31,Alok Singh,No ticket,1000
+11712,12952,2023-03-05,Manoj Verma,No ticket,405
+11713,12345,2023-11-10,Rajesh Kumar,Unreserved seat,280
+11714,12953,2023-10-01,Alok Singh,No ticket,373
+11715,12953,2023-10-20,Manoj Verma,Unreserved seat,179
+11716,12345,2023-06-06,Ravi Kumar,Travelling without ID,157
+11717,12951,2023-11-05,Sunita Yadav,Unreserved seat,294
+11718,12953,2023-07-29,Alok Singh,Over luggage,217
+11719,12953,2023-08-02,Alok Singh,No ticket,183
+11720,12951,2023-12-19,Sunita Yadav,Over luggage,964
+11721,12953,2023-08-31,Ravi Kumar,Seat change fraud,606
+11722,12345,2023-09-16,Manoj Verma,Over luggage,826
+11723,12952,2023-08-20,Ravi Kumar,Travelling without ID,542
+11724,12951,2023-06-18,Anita Sharma,No ticket,561
+11725,12952,2023-08-18,Alok Singh,No ticket,295
+11726,12860,2023-06-01,Rajesh Kumar,Over luggage,251
+11727,12952,2023-11-06,Rajesh Kumar,Over luggage,781
+11728,12951,2023-01-24,Ravi Kumar,No ticket,933
+11729,12860,2023-04-17,Rajesh Kumar,Seat change fraud,719
+11730,12952,2023-07-01,Ravi Kumar,Travelling without ID,878
+11731,12953,2023-06-04,Anita Sharma,Travelling without ID,739
+11732,12860,2023-01-25,Rajesh Kumar,Unreserved seat,574
+11733,12952,2023-01-31,Rajesh Kumar,No ticket,366
+11734,12951,2023-06-04,Sunita Yadav,Over luggage,257
+11735,12951,2023-05-18,Ravi Kumar,Seat change fraud,931
+11736,12345,2023-01-17,Manoj Verma,Over luggage,688
+11737,12860,2023-01-02,Sunita Yadav,Over luggage,474
+11738,12345,2023-11-19,Anita Sharma,Seat change fraud,476
+11739,12860,2023-06-05,Anita Sharma,Unreserved seat,914
+11740,12345,2023-11-30,Ravi Kumar,Over luggage,107
+11741,12345,2023-01-22,Ravi Kumar,No ticket,419
+11742,12345,2023-11-14,Sunita Yadav,Travelling without ID,336
+11743,12860,2023-04-25,Alok Singh,Seat change fraud,892
+11744,12860,2023-06-11,Rajesh Kumar,Seat change fraud,291
+11745,12860,2023-01-24,Manoj Verma,Travelling without ID,715
+11746,12951,2023-03-07,Ravi Kumar,Over luggage,663
+11747,12952,2023-01-02,Anita Sharma,Travelling without ID,563
+11748,12860,2023-08-15,Sunita Yadav,Over luggage,459
+11749,12951,2023-06-09,Sunita Yadav,Unreserved seat,281
+11750,12860,2023-01-09,Ravi Kumar,Over luggage,600
+11751,12953,2023-02-15,Rajesh Kumar,Travelling without ID,702
+11752,12345,2023-12-28,Anita Sharma,No ticket,578
+11753,12951,2023-04-22,Sunita Yadav,Seat change fraud,115
+11754,12345,2023-07-18,Ravi Kumar,Unreserved seat,743
+11755,12860,2023-08-20,Rajesh Kumar,Seat change fraud,708
+11756,12345,2023-07-05,Alok Singh,Unreserved seat,559
+11757,12952,2023-12-06,Rajesh Kumar,Unreserved seat,474
+11758,12952,2023-08-06,Manoj Verma,Seat change fraud,482
+11759,12952,2023-06-04,Rajesh Kumar,Travelling without ID,211
+11760,12345,2023-04-29,Rajesh Kumar,Travelling without ID,385
+11761,12953,2023-08-10,Ravi Kumar,Unreserved seat,748
+11762,12345,2023-02-25,Sunita Yadav,Travelling without ID,979
+11763,12952,2023-12-16,Anita Sharma,Seat change fraud,167
+11764,12952,2023-09-29,Sunita Yadav,Over luggage,272
+11765,12860,2023-11-26,Rajesh Kumar,No ticket,833
+11766,12860,2023-12-01,Ravi Kumar,Travelling without ID,506
+11767,12345,2023-07-29,Ravi Kumar,Seat change fraud,575
+11768,12952,2023-01-24,Ravi Kumar,Seat change fraud,268
+11769,12951,2023-03-23,Alok Singh,Over luggage,490
+11770,12953,2023-11-03,Rajesh Kumar,Over luggage,631
+11771,12345,2023-06-01,Manoj Verma,Travelling without ID,353
+11772,12951,2023-10-12,Alok Singh,Over luggage,476
+11773,12953,2023-02-14,Manoj Verma,No ticket,269
+11774,12953,2023-04-13,Manoj Verma,No ticket,929
+11775,12951,2023-11-08,Alok Singh,No ticket,898
+11776,12345,2023-02-21,Anita Sharma,Unreserved seat,988
+11777,12860,2023-07-03,Ravi Kumar,Travelling without ID,943
+11778,12345,2023-09-10,Sunita Yadav,Unreserved seat,643
+11779,12953,2023-05-06,Rajesh Kumar,Unreserved seat,994
+11780,12860,2023-02-08,Manoj Verma,Over luggage,674
+11781,12951,2023-07-31,Anita Sharma,Over luggage,668
+11782,12952,2023-05-30,Anita Sharma,Seat change fraud,666
+11783,12860,2023-02-19,Manoj Verma,No ticket,982
+11784,12951,2023-12-23,Rajesh Kumar,Over luggage,968
+11785,12345,2023-08-10,Anita Sharma,No ticket,179
+11786,12951,2023-12-13,Manoj Verma,Unreserved seat,952
+11787,12951,2023-03-17,Manoj Verma,No ticket,455
+11788,12953,2023-04-01,Manoj Verma,Unreserved seat,868
+11789,12860,2023-07-27,Alok Singh,Over luggage,606
+11790,12345,2023-05-22,Anita Sharma,Travelling without ID,391
+11791,12952,2023-11-15,Ravi Kumar,Unreserved seat,879
+11792,12953,2023-11-25,Rajesh Kumar,Seat change fraud,465
+11793,12953,2023-08-04,Ravi Kumar,Seat change fraud,268
+11794,12953,2023-09-22,Sunita Yadav,No ticket,729
+11795,12951,2023-04-27,Manoj Verma,No ticket,211
+11796,12951,2023-01-01,Ravi Kumar,No ticket,625
+11797,12951,2023-07-15,Anita Sharma,No ticket,283
+11798,12860,2023-07-09,Anita Sharma,Seat change fraud,785
+11799,12952,2023-11-30,Ravi Kumar,Travelling without ID,663
+11800,12345,2023-09-07,Manoj Verma,Travelling without ID,173
+11801,12952,2023-09-29,Sunita Yadav,Seat change fraud,354
+11802,12951,2023-02-20,Anita Sharma,Seat change fraud,393
+11803,12345,2023-07-06,Rajesh Kumar,Unreserved seat,364
+11804,12860,2023-10-08,Sunita Yadav,No ticket,892
+11805,12951,2023-05-28,Sunita Yadav,Seat change fraud,225
+11806,12345,2023-07-22,Ravi Kumar,Seat change fraud,137
+11807,12860,2023-01-02,Anita Sharma,Travelling without ID,572
+11808,12953,2023-07-16,Manoj Verma,Travelling without ID,948
+11809,12860,2023-07-13,Sunita Yadav,Travelling without ID,300
+11810,12860,2023-07-14,Alok Singh,Unreserved seat,800
+11811,12951,2023-12-01,Anita Sharma,Over luggage,128
+11812,12952,2023-07-25,Alok Singh,Unreserved seat,987
+11813,12860,2023-10-16,Rajesh Kumar,Travelling without ID,931
+11814,12951,2023-10-31,Sunita Yadav,Travelling without ID,225
+11815,12345,2023-12-10,Rajesh Kumar,Travelling without ID,119
+11816,12952,2023-04-01,Ravi Kumar,Travelling without ID,666
+11817,12953,2023-09-24,Sunita Yadav,Seat change fraud,307
+11818,12952,2023-08-09,Alok Singh,Over luggage,379
+11819,12953,2023-01-07,Alok Singh,Travelling without ID,420
+11820,12952,2023-01-05,Rajesh Kumar,Unreserved seat,203
+11821,12345,2023-11-11,Sunita Yadav,Unreserved seat,690
+11822,12860,2023-04-21,Alok Singh,Seat change fraud,790
+11823,12951,2023-09-14,Anita Sharma,Travelling without ID,639
+11824,12860,2023-07-10,Sunita Yadav,Over luggage,895
+11825,12952,2023-06-14,Ravi Kumar,Seat change fraud,726
+11826,12860,2023-10-12,Ravi Kumar,No ticket,695
+11827,12952,2023-10-31,Sunita Yadav,Travelling without ID,176
+11828,12345,2023-03-05,Rajesh Kumar,No ticket,911
+11829,12951,2023-12-23,Rajesh Kumar,Unreserved seat,457
+11830,12345,2023-10-31,Manoj Verma,Unreserved seat,949
+11831,12953,2023-07-26,Anita Sharma,Unreserved seat,769
+11832,12952,2023-04-14,Manoj Verma,No ticket,357
+11833,12952,2023-09-29,Alok Singh,No ticket,827
+11834,12860,2023-07-12,Sunita Yadav,Travelling without ID,410
+11835,12953,2023-03-07,Manoj Verma,Seat change fraud,277
+11836,12951,2023-05-09,Rajesh Kumar,Seat change fraud,909
+11837,12951,2023-07-15,Alok Singh,Unreserved seat,901
+11838,12953,2023-09-25,Manoj Verma,Seat change fraud,910
+11839,12860,2023-04-28,Manoj Verma,Over luggage,917
+11840,12860,2023-04-09,Rajesh Kumar,No ticket,583
+11841,12860,2023-11-03,Alok Singh,No ticket,407
+11842,12860,2023-03-11,Manoj Verma,Over luggage,125
+11843,12860,2023-04-06,Ravi Kumar,Seat change fraud,487
+11844,12860,2023-11-30,Alok Singh,No ticket,577
+11845,12953,2023-05-18,Ravi Kumar,No ticket,348
+11846,12951,2023-01-15,Anita Sharma,No ticket,615
+11847,12951,2023-11-09,Alok Singh,Travelling without ID,872
+11848,12952,2023-02-21,Ravi Kumar,Travelling without ID,919
+11849,12953,2023-06-17,Sunita Yadav,No ticket,823
+11850,12951,2023-03-03,Anita Sharma,No ticket,110
+11851,12952,2023-06-24,Alok Singh,Over luggage,177
+11852,12953,2023-04-11,Anita Sharma,Unreserved seat,920
+11853,12345,2023-06-20,Manoj Verma,No ticket,730
+11854,12953,2023-05-19,Anita Sharma,Over luggage,105
+11855,12345,2023-11-15,Manoj Verma,Travelling without ID,733
+11856,12952,2023-02-12,Manoj Verma,Seat change fraud,992
+11857,12345,2023-09-09,Manoj Verma,Seat change fraud,113
+11858,12951,2023-12-08,Manoj Verma,Unreserved seat,466
+11859,12952,2023-03-30,Alok Singh,Travelling without ID,426
+11860,12952,2023-11-30,Alok Singh,Unreserved seat,105
+11861,12952,2023-11-30,Sunita Yadav,No ticket,841
+11862,12860,2023-10-31,Alok Singh,Seat change fraud,501
+11863,12345,2023-07-02,Sunita Yadav,No ticket,520
+11864,12860,2023-08-14,Manoj Verma,Over luggage,209
+11865,12860,2023-07-10,Sunita Yadav,No ticket,125
+11866,12952,2023-01-28,Ravi Kumar,Travelling without ID,444
+11867,12860,2023-09-22,Alok Singh,Travelling without ID,370
+11868,12345,2023-03-08,Ravi Kumar,Travelling without ID,152
+11869,12952,2023-09-01,Sunita Yadav,Travelling without ID,427
+11870,12953,2023-07-17,Anita Sharma,No ticket,542
+11871,12345,2023-06-22,Rajesh Kumar,No ticket,517
+11872,12951,2023-06-14,Rajesh Kumar,Unreserved seat,279
+11873,12860,2023-02-18,Rajesh Kumar,Seat change fraud,475
+11874,12345,2023-10-01,Sunita Yadav,No ticket,242
+11875,12952,2023-08-11,Rajesh Kumar,No ticket,139
+11876,12345,2023-10-22,Rajesh Kumar,Unreserved seat,869
+11877,12952,2023-10-20,Rajesh Kumar,Over luggage,590
+11878,12951,2023-03-29,Anita Sharma,Unreserved seat,985
+11879,12860,2023-08-14,Alok Singh,Over luggage,135
+11880,12345,2023-11-03,Manoj Verma,Unreserved seat,828
+11881,12345,2023-02-06,Rajesh Kumar,Unreserved seat,159
+11882,12345,2023-08-29,Alok Singh,Over luggage,314
+11883,12860,2023-04-07,Sunita Yadav,Unreserved seat,458
+11884,12953,2023-01-23,Anita Sharma,Unreserved seat,903
+11885,12951,2023-05-25,Rajesh Kumar,Unreserved seat,213
+11886,12860,2023-12-24,Anita Sharma,Unreserved seat,948
+11887,12860,2023-12-27,Anita Sharma,Travelling without ID,429
+11888,12860,2023-05-14,Sunita Yadav,Unreserved seat,761
+11889,12345,2023-03-06,Sunita Yadav,No ticket,654
+11890,12953,2023-05-30,Anita Sharma,Seat change fraud,224
+11891,12860,2023-06-17,Manoj Verma,Travelling without ID,168
+11892,12953,2023-08-08,Sunita Yadav,Over luggage,174
+11893,12860,2023-06-07,Manoj Verma,Over luggage,340
+11894,12951,2023-10-05,Anita Sharma,Travelling without ID,298
+11895,12860,2023-06-18,Manoj Verma,No ticket,592
+11896,12952,2023-01-11,Anita Sharma,Seat change fraud,423
+11897,12345,2023-04-18,Ravi Kumar,Over luggage,527
+11898,12345,2023-09-27,Anita Sharma,No ticket,173
+11899,12952,2023-11-08,Sunita Yadav,Travelling without ID,663
+11900,12953,2023-04-23,Alok Singh,Travelling without ID,143
+11901,12860,2023-07-08,Manoj Verma,Unreserved seat,345
+11902,12953,2023-08-15,Anita Sharma,Seat change fraud,905
+11903,12951,2023-11-09,Sunita Yadav,Unreserved seat,998
+11904,12951,2023-04-02,Ravi Kumar,No ticket,219
+11905,12860,2023-06-11,Anita Sharma,Seat change fraud,644
+11906,12953,2023-08-29,Rajesh Kumar,Unreserved seat,227
+11907,12951,2023-12-27,Alok Singh,Unreserved seat,391
+11908,12952,2023-12-11,Alok Singh,Over luggage,676
+11909,12860,2023-09-23,Ravi Kumar,Seat change fraud,675
+11910,12952,2023-03-30,Sunita Yadav,Seat change fraud,404
+11911,12953,2023-10-06,Anita Sharma,Over luggage,343
+11912,12345,2023-08-23,Ravi Kumar,Seat change fraud,627
+11913,12952,2023-07-06,Alok Singh,Over luggage,324
+11914,12952,2023-10-06,Rajesh Kumar,No ticket,791
+11915,12952,2023-02-07,Manoj Verma,Unreserved seat,105
+11916,12345,2023-11-03,Manoj Verma,No ticket,770
+11917,12951,2023-09-28,Alok Singh,Over luggage,632
+11918,12860,2023-04-22,Manoj Verma,Unreserved seat,967
+11919,12951,2023-11-25,Anita Sharma,Seat change fraud,845
+11920,12952,2023-04-21,Sunita Yadav,Unreserved seat,323
+11921,12952,2023-02-23,Manoj Verma,Over luggage,465
+11922,12953,2023-11-04,Manoj Verma,Over luggage,685
+11923,12951,2023-03-29,Sunita Yadav,Unreserved seat,535
+11924,12952,2023-03-17,Manoj Verma,Seat change fraud,757
+11925,12345,2023-11-14,Sunita Yadav,Travelling without ID,731
+11926,12345,2023-08-22,Sunita Yadav,Seat change fraud,701
+11927,12860,2023-11-01,Ravi Kumar,Seat change fraud,568
+11928,12953,2023-11-03,Sunita Yadav,Seat change fraud,901
+11929,12951,2023-02-08,Manoj Verma,Seat change fraud,197
+11930,12860,2023-01-02,Ravi Kumar,Travelling without ID,928
+11931,12952,2023-09-24,Rajesh Kumar,Over luggage,156
+11932,12860,2023-03-23,Ravi Kumar,Travelling without ID,255
+11933,12345,2023-02-04,Ravi Kumar,Unreserved seat,951
+11934,12860,2023-01-04,Sunita Yadav,Unreserved seat,734
+11935,12951,2023-01-05,Sunita Yadav,Seat change fraud,805
+11936,12951,2023-03-17,Alok Singh,No ticket,710
+11937,12953,2023-07-12,Alok Singh,Unreserved seat,504
+11938,12951,2023-12-17,Ravi Kumar,Unreserved seat,155
+11939,12860,2023-07-07,Anita Sharma,Travelling without ID,692
+11940,12951,2023-08-26,Ravi Kumar,Over luggage,777
+11941,12952,2023-02-23,Anita Sharma,Unreserved seat,406
+11942,12953,2023-05-29,Alok Singh,Seat change fraud,720
+11943,12953,2023-12-06,Alok Singh,No ticket,367
+11944,12952,2023-11-07,Anita Sharma,Travelling without ID,534
+11945,12951,2023-11-23,Anita Sharma,Unreserved seat,972
+11946,12953,2023-06-30,Ravi Kumar,No ticket,494
+11947,12951,2023-11-21,Alok Singh,No ticket,177
+11948,12952,2023-06-12,Alok Singh,Over luggage,221
+11949,12951,2023-11-13,Alok Singh,Over luggage,740
+11950,12860,2023-10-02,Sunita Yadav,Unreserved seat,176
+11951,12345,2023-08-01,Sunita Yadav,No ticket,653
+11952,12953,2023-08-02,Anita Sharma,Unreserved seat,825
+11953,12952,2023-08-13,Anita Sharma,Seat change fraud,583
+11954,12952,2023-03-17,Alok Singh,No ticket,811
+11955,12953,2023-12-21,Sunita Yadav,No ticket,990
+11956,12951,2023-03-26,Anita Sharma,Unreserved seat,889
+11957,12952,2023-01-14,Rajesh Kumar,No ticket,348
+11958,12860,2023-05-09,Manoj Verma,Unreserved seat,147
+11959,12951,2023-06-05,Rajesh Kumar,Travelling without ID,668
+11960,12860,2023-06-27,Sunita Yadav,No ticket,205
+11961,12860,2023-09-17,Alok Singh,Unreserved seat,387
+11962,12860,2023-01-29,Alok Singh,Over luggage,690
+11963,12952,2023-09-21,Anita Sharma,No ticket,483
+11964,12952,2023-01-21,Ravi Kumar,Unreserved seat,522
+11965,12951,2023-12-04,Sunita Yadav,Seat change fraud,905
+11966,12345,2023-06-21,Sunita Yadav,Over luggage,851
+11967,12860,2023-08-16,Sunita Yadav,Seat change fraud,813
+11968,12953,2023-07-17,Sunita Yadav,No ticket,103
+11969,12860,2023-10-25,Alok Singh,Travelling without ID,675
+11970,12345,2023-08-05,Anita Sharma,Unreserved seat,418
+11971,12345,2023-04-13,Sunita Yadav,Travelling without ID,658
+11972,12951,2023-09-25,Anita Sharma,Over luggage,460
+11973,12951,2023-03-08,Alok Singh,Seat change fraud,429
+11974,12345,2023-01-22,Ravi Kumar,Over luggage,198
+11975,12952,2023-06-12,Manoj Verma,No ticket,782
+11976,12860,2023-12-07,Manoj Verma,Travelling without ID,945
+11977,12345,2023-10-02,Sunita Yadav,No ticket,103
+11978,12951,2023-11-20,Alok Singh,No ticket,513
+11979,12951,2023-01-05,Alok Singh,Seat change fraud,163
+11980,12860,2023-06-30,Sunita Yadav,Unreserved seat,271
+11981,12951,2023-08-16,Alok Singh,Over luggage,123
+11982,12860,2023-02-01,Alok Singh,Travelling without ID,656
+11983,12952,2023-05-20,Manoj Verma,Seat change fraud,968
+11984,12952,2023-10-23,Rajesh Kumar,No ticket,464
+11985,12860,2023-07-26,Ravi Kumar,Over luggage,236
+11986,12953,2023-03-12,Rajesh Kumar,Over luggage,261
+11987,12951,2023-09-30,Rajesh Kumar,No ticket,393
+11988,12860,2023-04-15,Manoj Verma,Unreserved seat,613
+11989,12345,2023-07-10,Manoj Verma,No ticket,493
+11990,12345,2023-01-27,Anita Sharma,No ticket,449
+11991,12952,2023-09-18,Ravi Kumar,No ticket,324
+11992,12860,2023-08-15,Rajesh Kumar,Over luggage,662
+11993,12953,2023-08-28,Manoj Verma,No ticket,871
+11994,12860,2023-10-24,Sunita Yadav,Unreserved seat,139
+11995,12953,2023-09-17,Rajesh Kumar,Travelling without ID,951
+11996,12345,2023-09-30,Rajesh Kumar,Travelling without ID,838
+11997,12860,2023-07-17,Ravi Kumar,No ticket,235
+11998,12952,2023-04-28,Sunita Yadav,No ticket,856
+11999,12952,2023-07-31,Ravi Kumar,Unreserved seat,538
